@@ -1,6 +1,7 @@
 {
     "name": "redingo/module-redingo",
     "description": "",
+    "minimum-stability": "stable",
     "type": "magento2-module",
     "license": "proprietary",
     "authors": [
