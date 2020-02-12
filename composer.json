@@ -1,7 +1,6 @@
 {
     "name": "redingo/module-redingo",
     "description": "",
-    "minimum-stability": "stable",
     "type": "magento2-module",
     "license": "proprietary",
     "authors": [
@@ -10,7 +9,7 @@
             "name": "Mage2Gen"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {},
     "autoload": {
         "psr-4": {
