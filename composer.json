@@ -1,28 +1,22 @@
 {
-    "name": "robertredingo85/composer",
-    "type": "library",
-    "description": "PHP Machine Learning library",
-    "license": "MIT",
-    "keywords": ["machine learning","pattern recognition","computational learning theory","artificial intelligence"],
-    "homepage": "https://github.com/php-ai/php-ml",
+    "name": "redingo/module-redingo",
+    "description": "",
+    "type": "magento2-module",
+    "license": "proprietary",
     "authors": [
         {
-            "name": "Arkadiusz Kondas",
-            "email": "your@email.address"
+            "email": "info@mage2gen.com",
+            "name": "Mage2Gen"
         }
     ],
+    "minimum-stability": "dev",
+    "require": {},
     "autoload": {
-        "psr-0": {
-            "Phpml": "src/"
-        }
-    },
-    "config": {
-        "bin-dir": "bin"
-    },
-    "require": {
-        "php": ">=7.0.0"
-    },
-    "require-dev": {
-        "phpunit/phpunit": "^5.2"
+        "psr-4": {
+            "RedInGo\\RedInGo\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
     }
 }
