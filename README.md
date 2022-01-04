@@ -1,6 +1,6 @@
 # Mage2 Module RedInGo RedInGo
 
-    ``redingo/module-redingo``
+    ``redingo/module-redingo``werewr
 
  - [Main Functionalities](#markdown-header-main-functionalities)
  - [Installation](#markdown-header-installation)
